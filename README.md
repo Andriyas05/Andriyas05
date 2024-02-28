@@ -62,6 +62,36 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
+## ✨ Work Experience
+
+| 🏢 Company | 💼 Role | ⏰ Duration |
+| --- | --- | --- |
+| [PrepInsta](https://www.linkedin.com/company/prepinstaprime-campusclub/mycompany/) | Growth Manager | Jan 2024 - Present |
+|||
+| [Patel Agro Products and Services Pvt Ltd] | Software Developer Engineer | Jul 2023 - Jan 2023 |
+|||
+| [SmartInternz](https://www.linkedin.com/company/smartinternz/) | Salesforce Developer Intern | Oct 2023 - Nov 2023 |
+|||
+| [IBM](https://www.linkedin.com/company/ibm/) | Artificial Intelligence Intern | Jun 2023 - Jul 2023 |
+|||
+| [Amazon Web Services(AWS)](https://www.linkedin.com/company/amazon-web-services/) | AI - ML Intern | May 2023 - Jul 2023 |
+|||
+| [CISCO](https://www.linkedin.com/school/cisco-networking-academy1/) | Cyber Security Intern | May 2023 - Jun 2023 |
+|||
+| [AICTE IDEA LAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Sustainable Product Developer | Feb 2023 - Apr 2023 |
+|||
+| [AICTE IDEA LAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Android Application Developer | Sep 2022 - Dec 2022 |
+|||
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=flutter-whatsapp-clone-master)](https://github.com/Andriyas05/flutter-whatsapp-clone-master)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=krishicare)](https://github.com/Andriyas05/krishicare)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=inotebook)](https://github.com/Andriyas05/inotebook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=bmi_calculator_app-master)](https://github.com/Andriyas05/bmi_calculator_app-master)
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Andriyas05&show_icons=true&theme=dark&locale=en" alt="Andriyas Saini" /></td>
