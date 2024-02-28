@@ -68,7 +68,7 @@
 | --- | --- | --- |
 | [PrepInsta](https://www.linkedin.com/company/prepinstaprime-campusclub/mycompany/) | Growth Manager | Jan 2024 - Present |
 |||
-| [Patel Agro Products and Services Pvt Ltd] | Software Developer Engineer | Jul 2023 - Jan 2023 |
+| [Patel Agro Products and Services Pvt Ltd] | Software Developer Engineer | Jul 2023 - Jan 2024 |
 |||
 | [SmartInternz](https://www.linkedin.com/company/smartinternz/) | Salesforce Developer Intern | Oct 2023 - Nov 2023 |
 |||
@@ -83,6 +83,7 @@
 | [AICTE IDEA LAB](https://www.linkedin.com/company/aicte-idea-lab-lnct-bhopal/) | Android Application Developer | Sep 2022 - Dec 2022 |
 |||
 
+## ✨ Key Projects
 
 
 
