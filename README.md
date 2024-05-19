@@ -66,7 +66,9 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [PrepInsta](https://www.linkedin.com/company/prepinstaprime-campusclub/mycompany/) | Growth Manager | Jan 2024 - Present |
+| [GirlScript Summer of COde](https://www.linkedin.com/company/girlscriptsoc/mycompany/) | Open Source Contributor | May 2024 - Present |
+|||
+| [PrepInsta](https://www.linkedin.com/company/prepinstaprime-campusclub/mycompany/) | Growth Manager | Jan 2024 - March 2024 |
 |||
 | [Patel Agro Products and Services Pvt Ltd] | Software Developer Engineer | Jul 2023 - Jan 2024 |
 |||
@@ -87,11 +89,11 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=flutter-whatsapp-clone-master)](https://github.com/Andriyas05/flutter-whatsapp-clone-master)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=krishicare)](https://github.com/Andriyas05/krishicare)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=ECommerce-Website-Mern)](https://github.com/Andriyas05/ECommerce-Website-Mern)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=KisanSeva-Final)](https://github.com/Andriyas05/KisanSeva-Final)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=inotebook)](https://github.com/Andriyas05/inotebook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=bmi_calculator_app-master)](https://github.com/Andriyas05/bmi_calculator_app-master)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=Inotebook-final)](https://github.com/Andriyas05/Inotebook-final)
+
 
 <table>
   <tr>
